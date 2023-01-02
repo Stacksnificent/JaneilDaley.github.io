@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="final-main.css">
 <meta charset="utf-8">
 <h1> Janeil's Blog about gaming </h1>
   </head>
