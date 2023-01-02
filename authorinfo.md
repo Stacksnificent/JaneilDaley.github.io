@@ -8,3 +8,10 @@
      <h3>Company/School name: QPS</h3>
     <h4> Short Bio: Janeil is a fulltime security guard looking to switch careers at 24 years old. Janeil likes playing video games, making music, and is currently learning front end development.</h4>
    </div>
+  <div>
+    <ul>
+      <li> <a href="http://www.linkedin.com"> connect with me on LinkedIn</a>
+      </li>
+      <li> <a href="http//www.twitter.com"> connect with me on twitter</a>
+        </li>
+      <li> <a href="http//www.facebook.com"> connect with me on facebook</a>
