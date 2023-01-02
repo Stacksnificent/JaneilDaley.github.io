@@ -1,0 +1,28 @@
+ul {color: lightgreen;
+    list-style: none;
+    display: flex;
+}
+
+p {color: black;
+
+}
+
+footer {color: blanchedalmond;
+
+}
+
+
+a {text-decoration: none;
+
+}
+
+li {display: grid;
+    padding: 10%;
+
+}
+
+.social-sites {display: flex;
+    padding-top: 10%;
+
+}
+
