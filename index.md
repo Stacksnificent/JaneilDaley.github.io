@@ -2,10 +2,7 @@
 <html lang="en">
   <head>
 <meta charset="utf-8">
-    <link href="final-main.css" rel="stylesheet">
-    <link href="final-first.css" rel="stylesheet 1">
-    <link href="final-second.css" rel="stylesheet 2">
-    <link href="final-third.css" rel="stylesheet 3">
+   <link rel="stylesheet" href="final-main.css">
   </head>
   <body>
     <h1> Janeil's Blog About Gaming</h1>
