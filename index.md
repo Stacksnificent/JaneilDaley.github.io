@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="final-main.css">
 <meta charset="utf-8">
-<h1> Janeil's Blog about gaming </h1>
+    <link href="final-main.css" rel="stylesheet">
   </head>
   <body>
+    <h1> Janeil's Blog About Gaming</h1>
    <nav>
      <ul>
        <li>
@@ -46,3 +46,4 @@
     
     
   </body>
+      </html>
